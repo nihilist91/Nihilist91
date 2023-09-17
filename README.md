@@ -47,7 +47,8 @@ src="https://img.shields.io/twitch/status/luciifer91?logo=twitchsx&style=for-the
 
 <a href="http://www.github.com/mohammedhank91"><img src="https://github-readme-stats.vercel.app/api?username=mohammedhank91&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mohammedhank91's GitHub stats" /></a>
 
-<a href="http://www.github.com/mohammedhank91"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mohammedhank91&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/mohammedhank91" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedhank91&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedhank91&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedhank91&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 

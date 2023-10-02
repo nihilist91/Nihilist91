@@ -31,7 +31,4 @@ MOHAMMED CHAARAOUI<br>Software Enginer , Devops & Cloud Consultant<br>System adm
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=mohammedhank91&label=Profile%20Views&icon=5&pretty=false" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=mohammedhank91&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)

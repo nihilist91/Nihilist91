@@ -18,38 +18,38 @@ MOHAMMED CHAARAOUI<br>Software Enginer , Devops & Cloud Consultant<br>System adm
 # 📊 GitHub Stats:
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=nihilist91&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=nihilist91&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=nihilist91&theme=tokyonight&hide_border=false)
+<img src="https://streak-stats.demolab.com?user=nihilist91&theme=radical&hide_border=false" alt="GitHub Streak" />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nihilist91&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihilist91&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=nihilist91&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=nihilist91&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 
 </div>
 
 ### ✍️ Random Dev Quote
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
 ### 🔝 Top Contributed Repo
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=nihilist91&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=nihilist91&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 </div>
 
 ### 😂 Random Dev Meme
 <div align="center">
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 </div>
 
 ---
@@ -58,3 +58,4 @@ MOHAMMED CHAARAOUI<br>Software Enginer , Devops & Cloud Consultant<br>System adm
 [![](https://visitcount.itsvg.in/api?id=nihilist91&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
+

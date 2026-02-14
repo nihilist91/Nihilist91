@@ -14,7 +14,7 @@
 - 💼 System administrator and web developer
 - 🚀 Passionate about innovation, entrepreneurship, and project management
 - 💡 Always learning and exploring new technologies
-- 📫 Reach me at **chaaraoui441@gmail.com**
+- 📫 Reach me at **mochaaraoui@gmail.com**
 - ⚡ Fun fact: **I turn coffee into code!**
 
 ---
